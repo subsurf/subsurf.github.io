@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/subsurf/subsurf.github.io/static/css/main.ff763866.css",
-    "main.js": "/subsurf/subsurf.github.io/static/js/main.5ae183a7.js",
-    "static/media/google_sans.ttf": "/subsurf/subsurf.github.io/static/media/google_sans.7e4869aa55d3e8107480.ttf",
-    "static/media/google_sans_medium.ttf": "/subsurf/subsurf.github.io/static/media/google_sans_medium.e4ee69b7945b5aeef795.ttf",
-    "index.html": "/subsurf/subsurf.github.io/index.html",
-    "main.ff763866.css.map": "/subsurf/subsurf.github.io/static/css/main.ff763866.css.map",
-    "main.5ae183a7.js.map": "/subsurf/subsurf.github.io/static/js/main.5ae183a7.js.map"
+    "main.css": "/static/css/main.2f4af4d0.css",
+    "main.js": "/static/js/main.5ae183a7.js",
+    "static/media/google_sans.ttf": "/static/media/google_sans.7e4869aa55d3e8107480.ttf",
+    "static/media/google_sans_medium.ttf": "/static/media/google_sans_medium.e4ee69b7945b5aeef795.ttf",
+    "index.html": "/index.html",
+    "main.2f4af4d0.css.map": "/static/css/main.2f4af4d0.css.map",
+    "main.5ae183a7.js.map": "/static/js/main.5ae183a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff763866.css",
+    "static/css/main.2f4af4d0.css",
     "static/js/main.5ae183a7.js"
   ]
 }
